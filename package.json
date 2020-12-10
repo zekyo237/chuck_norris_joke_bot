@@ -1,0 +1,13 @@
+{
+  "name": "bot-joke-chuck-norri",
+  "main": "chuck_joke_bot.js",
+  "scripts": {
+    "start": "node chuck_joke_bot.js "
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.5.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
